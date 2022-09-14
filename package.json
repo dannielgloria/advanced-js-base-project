@@ -1,0 +1,29 @@
+{
+  "name": "base-backend",
+  "version": "1.0.0",
+  "description": "node js base project: creation of restful api with express and connection to mysql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannielgloria/advanced-js-base-project.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "express",
+    "babel",
+    "javascript",
+    "api",
+    "api",
+    "restful"
+  ],
+  "author": "Daniel Gloria Florencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannielgloria/advanced-js-base-project/issues"
+  },
+  "homepage": "https://github.com/dannielgloria/advanced-js-base-project#readme"
+}
